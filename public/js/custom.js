@@ -104,7 +104,7 @@ eval("function openNav() {\n  document.getElementById(\"mySidenav\").style.width
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Projects\patientsadmin\resources\js\custom.js */"./resources/js/custom.js");
+module.exports = __webpack_require__(/*! D:\test_projects\adminstater\resources\js\custom.js */"./resources/js/custom.js");
 
 
 /***/ })
